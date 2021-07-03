@@ -9,6 +9,3 @@ nuoxian所爱好的：
 - 后端探索者 | **PHP**, **MYSQL**
 - 网络小说家 | **起点中文网**
 - 网络音乐家 | **诺仙仙君**
-
-### Platform&Tools
-![](https://visitor-badge.glitch.me/badge?page_id=nuoxianCN)
