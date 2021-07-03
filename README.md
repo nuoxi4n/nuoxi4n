@@ -5,4 +5,4 @@
 - 📫 How to reach me ...
 
 ### Platform&Tools
-![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
+![](https://visitor-badge.glitch.me/badge?page_id=nuoxianCN)
