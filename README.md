@@ -11,3 +11,5 @@ nuoxian所爱好的：
 - 后端探索者 | **PHP**, **MYSQL**, **Python**, **Java**, **C**
 - 网络小说家 | **起点中文网**
 - 网络音乐家 | **诺仙仙君**
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,apple,azure,cpp,discord,docker,git,github,gitlab,gmail,godot,jquery,linux,md,mysql,nginx,nodejs,npm,nuxtjs,ps,pnpm,postgres,powershell,pr,py,redis,twitter,unity,unreal,v,vercel,vite,vscode,vue,windows,wordpress)](https://nuoxiana.cn)
