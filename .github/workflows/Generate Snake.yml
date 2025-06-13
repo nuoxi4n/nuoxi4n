@@ -14,6 +14,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+          fetch-depth: 0
       
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -26,8 +29,9 @@ jobs:
             ./assets/github-contribution-grid-snake.gif
             ./assets/github-contribution-grid-snake-dark.gif?palette=github-dark
 
-      - name: Push to GitHub
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: 'chore(bot): Generate Contribution Snake'
-          branch: main
+      - name: Commit files
+        run: |
+          git add ./assets
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(bot): Generate Contribution Snake"
