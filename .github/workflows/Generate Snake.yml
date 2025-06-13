@@ -33,5 +33,10 @@ jobs:
         run: |
           git add ./assets
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore(bot): Generate Contribution Snake"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(bot): Generate Contribution Snake" -a
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
