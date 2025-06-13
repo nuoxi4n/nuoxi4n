@@ -14,4 +14,4 @@ nuoxian所爱好的：
 
 ![](https://raw.githubusercontent.com/nuoxi4n/nuoxi4n/main/assets/github-contribution-grid-snake.svg)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,apple,azure,cpp,discord,docker,git,github,gitlab,gmail,godot,jquery,linux,md,mysql,nginx,nodejs,npm,nuxtjs,ps,pnpm,postgres,powershell,pr,py,redis,twitter,unity,unreal,v,vercel,vite,vscode,vue,windows,wordpress&perline=20)](https://nuoxiana.cn)
+[![My Skills](https://skillicons.dev/icons?i=ae,apple,au,aws,azure,bash,bootstrap,c,cpp,cloudflare,css,discord,docker,git,github,gitlab,gmail,html,instagram,js,jenkins,kali,linux,md,mysql,nginx,nodejs,npm,ps,php,pnpm,postgres,powershell,pr,py,redis,sqlite,twitter,ts,ubuntu,unity,unreal,vercel,vite,vscode,vue,windows,wordpress&perline=20)](https://nuoxiana.cn)
